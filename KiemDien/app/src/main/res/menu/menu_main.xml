@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuOpenFile"
+        android:title="@string/open_file" />
+    <item
+        android:id="@+id/menuSaveAs"
+        android:title="@string/save_as" />
+    <item
+        android:id="@+id/menuCheckin"
+        android:title="@string/checkin"/>
+    <item
+        android:id="@+id/menuListStudent"
+        android:title="@string/list_student"/>
+    <item
+        android:id="@+id/menuSendEmail"
+        android:title="@string/send_email"/>
+    <item
+        android:id="@+id/menuSetting"
+        android:title="@string/setting"/>
+</menu>

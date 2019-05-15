@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ChonMonGuiTinNhan</string>
+    <string name="order_confirmation">Order confirmation</string>
+    <string name="agree">Agree</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="banner">Banner</string>
+    <string name="order_success">Order success</string>
+    <string name="size">Size</string>
+    <string name="tortilla">Tortilla</string>
+    <string name="fillings">Fillings</string>
+    <string name="beverage">Beverage</string>
+
+    <string name="large">Large</string>
+    <string name="medium">Medium</string>
+
+    <string name="corn">Corn</string>
+    <string name="flour">Flour</string>
+
+    <string name="beef">Beef</string>
+    <string name="chicken">Chicken</string>
+    <string name="white_fish">White Fish</string>
+    <string name="cheese">Cheese</string>
+    <string name="sea_food">Sea food</string>
+    <string name="rice">Rice</string>
+    <string name="beans">Beans</string>
+    <string name="pico_de_gallo">Pico de Gallo</string>
+    <string name="guacamole">Guacamole</string>
+    <string name="lbt">LBT</string>
+
+    <string name="soda">Soda</string>
+    <string name="cerveza">Cerveza</string>
+    <string name="margarita">Margarita</string>
+    <string name="tequila">Tequila</string>
+    <string name="sms_faild">SMS faild, please try again.</string>
+    <string name="place_your_order">PLACE YOUR ORDER</string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kiểm diện</string>
+    <string name="open_file">Mở tập tin</string>
+    <string name="checkin">Kiểm diện</string>
+    <string name="list_student">Danh sách sinh viên</string>
+    <string name="error_open_file">Có lỗi khi đọc file</string>
+    <string name="setting">Cấu hình</string>
+    <string name="api_host">Host api</string>
+    <string name="save">Lưu</string>
+    <string name="save_successful">Lưu thành công</string>
+    <string name="id_student">Mã sinh viên:</string>
+    <string name="full_name">Họ và tên:</string>
+    <string name="date_checked">Thời điểm kiểm diện:</string>
+    <string name="warning">Cảnh báo</string>
+    <string name="alert_open_file">Mở tập tin mới sẽ xóa dữ liệu cũ. Bạn có chắc chắn?</string>
+    <string name="agree">Đồng ý</string>
+    <string name="back">Quay lại</string>
+    <string name="student_not_in_file">Sinh viên không có trong danh sách.</string>
+    <string name="please_select_student">Vui lòng chọn sinh viên</string>
+    <string name="checked">Đã kiểm diện </string>
+    <string name="check_successful">Kiểm diện thành công.</string>
+    <string name="all_students">Tất cả sinh viên</string>
+    <string name="students_checked">Những sinh viên đã kiểm diện</string>
+    <string name="send_email">Gửi email</string>
+    <string name="save_as">Lưu thành...</string>
+    <string name="file_name">Tên tập tin</string>
+    <string name="error_save_file">Lỗi khi lưu file</string>
+    <string name="students_not_checked">Những sinh viên chưa kiểm diện</string>
+    <string name="charset">Bộ mã hóa</string>
+</resources>
